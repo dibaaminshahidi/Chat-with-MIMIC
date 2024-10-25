@@ -1,13 +1,12 @@
-sqlite3 == 2.6.0
-chroma-hnswlib==0.7.6
-chromadb==0.5.5
-langchain==0.2.14
-langchain-chroma==0.1.2
-langchain-cohere==0.1.9
-langchain-community==0.2.12
-langchain-core==0.2.41
-langchain-text-splitters==0.2.2
-mysql-connector-python==8.3.0
-pydantic==2.8.2
-pydantic_core==2.20.1
-streamlit==1.31.0
+pysqlite3-binary
+chromadb
+langchain 
+langchain-chroma 
+langchain-cohere 
+langchain-community 
+langchain-core 
+langchain-text-splitters 
+mysql-connector-python 
+pydantic 
+pydantic_core 
+streamlit 
